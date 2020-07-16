@@ -14,6 +14,8 @@ He estudiado **desarrollo de aplicaciones informaticas** aunque actualmente mis 
 
 Aunque empecé programando con C/C++ y .NET a nivel de programacion y SGBD SQL a nivel de BBDD, actualmente por perfil laboral estoy centrado en **PowerShell** y **Python** y con BBDD tanto SQL como NOSQL.
 
+Soy bastante autodidacta y me encanta tanto los retos como aprender cosas nuevas.
+
 ## ⚡Aficiones:
 
 :arrow_right: **Fotografía**
