@@ -3,7 +3,7 @@
 
 ### Mi nombre es Juanlu y pertenezco al departamento de IT.
 
-<img align="center" alt="GIF" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" />
+<img height=250 align="center" alt="GIF" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" />
 <br>
 
 He estudiado **desarrollo de aplicaciones informaticas** aunque actualmente mis funciones van orientadas a:
@@ -21,6 +21,7 @@ Aunque empecé programando con C/C++ y .NET a nivel de programacion y SGBD SQL a
 Soy bastante autodidacta y me encanta tanto los retos como aprender cosas nuevas.
 
 **Languages and Tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="16" src="https://img2.freepng.es/20180408/gde/kisspng-powershell-computer-icons-active-directory-compute-exam-5aca9f8439b325.2967284915232285482364.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
