@@ -1,7 +1,7 @@
 # Hola!!!  👋👋👋
 
 
-### Mi nombre es Juanlu y pertenezco al departamento de IT.
+### Mi nombre es Juanlu y pertenezco al equipo de RedTeam en calidad de analista senior y pentester.
 
 <img height=250 align="center" alt="GIF" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif" />
 <br>
